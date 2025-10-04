@@ -1,0 +1,12 @@
+
+Commit the file.
+
+### 4) Add `CODE_OF_CONDUCT.md`
+Create the file on GitHub with a basic template. Example content:
+
+```markdown
+# Code of Conduct
+
+This project follows the Contributor Covenant Code of Conduct.
+
+Contact: your-email@example.com
